@@ -458,7 +458,7 @@ h3[data-v-54366184] {
 
 a.topicChipLink[data-v-1d97ce17],
 a.topicChipLink[data-v-1d97ce17]:visited {
-    color: #333;
+    color: #333 !important;
     text-decoration: none;
     transition: 500ms ease background-color, 500ms ease color;
 }
